@@ -1,4 +1,4 @@
-package bean;
+package bytestream.bean;
 
 import java.io.Serializable;
 

@@ -1,3 +1,5 @@
+package bytestream;
+
 import java.io.*;
 
 public class BufferedByteStreamTest {

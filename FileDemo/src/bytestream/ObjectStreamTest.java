@@ -1,4 +1,6 @@
-import bean.Person;
+package bytestream;
+
+import bytestream.bean.Person;
 
 import java.io.*;
 
